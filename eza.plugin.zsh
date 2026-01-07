@@ -24,9 +24,9 @@
 
 # See https://wiki.zshell.dev/community/zsh_plugin_standard#standard-plugins-hash
 declare -gA EZA
-$EZA[_PLUGIN_DIR]="${0:h}"
-$EZA[_ALIASES]=""
-$EZA[_FUNCTIONS]=""
+EZA[_PLUGIN_DIR]="${0:h}"
+EZA[_ALIASES]=""
+EZA[_FUNCTIONS]=""
 
 ############################################################################
 # Internal Support Functions
