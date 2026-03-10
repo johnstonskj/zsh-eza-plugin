@@ -1,8 +1,10 @@
 # -*- mode: sh; eval: (sh-set-shell "zsh") -*-
 #
-# Plugin Name: eza
-# Description: Simple plugin to set up aliases for the `eza` command, a modern replacement for `ls`.
-# Repository: https://github.com/johnstonskj/zsh-eza-plugin
+# @name: eza
+# @brief: Set aliases for the `eza` command, a modern replacement for `ls`.
+# @repository: https://github.com/johnstonskj/zsh-eza-plugin
+# @version: 0.1.1
+# @license: MIT AND Apache-2.0
 #
 
 ############################################################################
